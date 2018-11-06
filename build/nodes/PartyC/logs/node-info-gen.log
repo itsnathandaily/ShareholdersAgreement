@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mTop tip: never say "oops", instead
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94malways say "Ah, Interesting!"
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source corda-3.0 (d9d6684) -----------------------------------------------
+
+[m
+Logs can be found in                    : /Users/nathanm/bootcamp-cordapp/build/nodes/PartyC/logs
+Database connection url is              : jdbc:h2:tcp://172.20.10.2:59416/node

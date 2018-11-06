@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94m"It's OK computer, I go to sleep after
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mtwenty minutes of inactivity too!"
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source corda-3.0 (d9d6684) -----------------------------------------------
+
+[m
+Logs can be found in                    : /Users/nathanm/bootcamp-cordapp/build/nodes/PartyB/logs
+Database connection url is              : jdbc:h2:tcp://172.20.10.2:59415/node
